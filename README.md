@@ -4,7 +4,9 @@
   - type: frontend plugin
   - test url: http://localhost:3000/bs-show-catalog
     
+![image](https://github.com/alejandroplx/bs-show-catalog/assets/159460062/38e3d2f8-78df-467e-8d71-bc1a7f614238)
 
-Reference:
+
+References:
   - Backstage API: https://backstage.io/docs/reference/
   - Catalog library: https://backstage.io/docs/reference/plugin-catalog-react
